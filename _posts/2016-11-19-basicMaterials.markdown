@@ -7,7 +7,7 @@ categories: intro
 For the first circuits, the materials list is short and easy to find:
 ![copperTape]({{ site.url }}/assets/basicMaterials500.jpg)
 
-        - CR2032 Cell battery  (or any other 3v battery)
+        - CR2032 coin battery  (or any other 3v battery)
         - Some leds 
         - Copper tape 
         - Paper
