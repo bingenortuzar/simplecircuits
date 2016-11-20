@@ -6,7 +6,7 @@ categories: intro
 ---
 This circuit is the very easy, but not so efficient, I like it because children (and adults) Loves it, but the materials used, being easy and cheap, are not efficient, so we are not going to use them in many experiments.
 
-### What whe need:
+### What we need:
       
         - 9v battery
         - one led 

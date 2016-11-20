@@ -6,7 +6,7 @@ categories: intro
 ---
 This circuit is the easiest one, so easy perhaps, but don't understimate it. Children love to touch, and for them this is like magic. 
 
-### What whe need:
+### What we need:
       
         - CR2032 coin battery (or any other 3v coin battery)
         - one led 
