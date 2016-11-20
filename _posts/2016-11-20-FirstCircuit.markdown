@@ -11,10 +11,9 @@ This circuit is the easiest one, so easy perhaps, but don't understimate it. Chi
         - CR2032 coin battery (or any other 3v coin battery)
         - one led 
 
-### The circuit schema
-
-
 ![SimplestCircuit]({{ site.url }}/assets/SimplestCircuit500.jpg)
+
+### The circuit schema
 
 Look at the battery, usually there's a + sign on one of the sides. Take a led and look at his thin legs. Usually one leg is longer, that one has to be atached to the + side of the battery and the other to the - side.
 that's all. easy no?
