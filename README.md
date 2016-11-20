@@ -1,8 +1,9 @@
 # simplecircuits
-WARNING: THIS IS LESS THAN AN ALFA VERSION.  
-The idea is extend what I saw in [Makezine](http://makezine.com/projects/simple-paper-circuit/)
-making small projects to learn and have fun with my children. Premises are simple:
-      -low cost.
+### WARNING: THIS IS LESS THAN AN ALFA VERSION.  
+
+The idea is making small projects to learn and have fun with my children. Premises are simple:
+     
+      -Low cost.
       -No soldering.
       -No programming.
 
@@ -17,3 +18,6 @@ first projects to add:
       -Buzzer
       -...
       -Simple wearables
+
+### disclaimer
+My English is not good, neither my electrical knowledge, so typos are expected everywhere 
