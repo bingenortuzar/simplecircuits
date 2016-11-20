@@ -5,6 +5,7 @@ date:   2016-11-20 11:16:29 +0100
 categories: intro 
 ---
 This circuit is the easiest one, so easy perhaps, but don't understimate it. Children love to touch, and for them this is like magic. 
+
 ### What whe need:
       
         - CR2032 coin battery (or any other 3v coin battery)
@@ -19,7 +20,6 @@ Look at the battery, usually there's a + sign on one of the sides. Take a led an
 that's all. easy no?
 
 ![SimplestCircuit]({{ site.url }}/assets/SimplestCircuit500Final.jpg)
-
 
 ### About this experiment
 
