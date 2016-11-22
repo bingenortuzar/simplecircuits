@@ -1,6 +1,8 @@
 # simplecircuits
 ### WARNING: THIS IS LESS THAN AN ALFA VERSION.  
 
+This is the content for [simplecircuits.bingenortuzar.com](http://simplecircuits.bingenortuzar.com)
+
 The idea is making small projects to learn and have fun with my children. Premises are simple:
      
       -Low cost.
