@@ -16,12 +16,12 @@ widget2:
   title: "The theory behind"
   url: 'http://simplecircuits.bingenortuzar.com/pages/theoryHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously'
+  text: "Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously"
 widget3:
   title: "beyond the paper"
   url: 'http://simplecircuits.bingenortuzar.com/pages/beyondHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'experiments that did't fit here '
+  text: "experiments that did't fit here"
 #
 # Use the call for action to show a button on the frontpage
 #
