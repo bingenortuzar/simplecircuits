@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Pencil drawn Circuit"
 date:   2016-11-20 12:16:29 +0100
 categories: intro 
@@ -17,14 +17,14 @@ This circuit is very easy, but not so efficient, I like it because children (and
 ### The circuit schema
 
 
-![PencilDrawn]({{ site.url }}/assets/PencilDrawnCircuit500.jpg)
+![PencilDrawn]({{ site.url }}/images/PencilDrawnCircuit500.jpg)
 
 
 With the pencil, draw 2 parallel lines of about 3 or 4 cm and about 5 mm thick and separated 5 mm. Its important to draw them firmly. Draw a + and a - sign below each line (Not mandatory, but helps on first circuits)
 take a led and look at his thin legs. Usually one leg is longer, that one has to be atached to the line marked with a +. the other one goes on the - line, but you would probably had to bend both legs for that. You can use some adhesive tape to ensure each leg is in contact with the drawn line.
 Just one step to go. Look at the battery. It has 2 tips, one is round and another one is hexagonal. The round one must be connected to the + line, and the hexagonal to the -. If everethig goes fine, your led will light,but not so strong
 
-![PencilDrawn]({{ site.url }}/assets/PencilDrawnCircuit500Final.jpg)
+![PencilDrawn]({{ site.url }}/images/PencilDrawnCircuit500Final.jpg)
 
 
 ### About this experiment

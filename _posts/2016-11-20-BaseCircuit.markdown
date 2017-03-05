@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Base Circuit"
 date:   2016-11-20 17:16:29 +0100
 categories: intro 
@@ -15,13 +15,13 @@ This is the base circuit we are going to use in other experiments.
         - Paper clip
 
 
-![BaseCircuit]({{ site.url }}/assets/BaseCircuit500.jpg)
+![BaseCircuit]({{ site.url }}/images/BaseCircuit500.jpg)
 
 ### The circuit schema
 
 We have to draw a path to connect both sides of the battery with the led
 
-![BaseCircuit]({{ site.url }}/assets/BaseCircuit500Final.jpg)
+![BaseCircuit]({{ site.url }}/images/BaseCircuit500Final.jpg)
 
 ### About this experiment
 
