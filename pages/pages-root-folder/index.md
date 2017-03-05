@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Getting Started"
   url: 'http://simplecircuits.bingenortuzar.com/pages/gettingStarted'
-  image: 'http://simplecircuits.bingenortuzar.com/asserts/img/getstartph.png'
+  image: 'http://simplecircuits.bingenortuzar.com/assets/img/getstartph.png'
   text: 'Your first visit? Please take the guided tour :)'
 widget2:
   title: "The theory behind"
