@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Getting Started"
   url: 'http://simplecircuits.bingenortuzar.com/pages/gettingStarted'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'http://simplecircuits.bingenortuzar.com/asserts/img/getstartph.png'
   text: 'Your first visit? Please take the guided tour :)'
 widget2:
   title: "The theory behind"
@@ -18,7 +18,7 @@ widget2:
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: "Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously"
 widget3:
-  title: "beyond the paper"
+  title: "Beyond the paper"
   url: 'http://simplecircuits.bingenortuzar.com/pages/beyondHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: "experiments that did't fit here"
