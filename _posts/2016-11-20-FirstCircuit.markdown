@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "First Circuit"
 date:   2016-11-20 11:16:29 +0100
 categories: intro 
@@ -11,14 +11,14 @@ This circuit is the easiest one, so easy perhaps, but don't understimate it. Chi
         - CR2032 coin battery (or any other 3v coin battery)
         - one led 
 
-![SimplestCircuit]({{ site.url }}/assets/SimplestCircuit500.jpg)
+![SimplestCircuit]({{ site.url }}/images/SimplestCircuit500.jpg)
 
 ### The circuit schema
 
 Look at the battery, usually there's a + sign on one of the sides. Take a led and look at his thin legs. Usually one leg is longer, that one has to be atached to the + side of the battery and the other to the - side.
 that's all. easy no?
 
-![SimplestCircuit]({{ site.url }}/assets/SimplestCircuit500Final.jpg)
+![SimplestCircuit]({{ site.url }}/images/SimplestCircuit500Final.jpg)
 
 ### About this experiment
 
