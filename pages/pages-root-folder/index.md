@@ -13,12 +13,12 @@ widget1:
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  title: "The theory behind"
+  url: 'http://simplecircuits.bingenortuzar.com/pages/theoryHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget3:
-  title: "Widget 3"
+  title: "beyond the paper"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
