@@ -9,7 +9,7 @@ header:
   image_fullwidth: header.jpg
 widget1:
   title: "Getting Started"
-  url: 'http://simplecircuits.bingenortuzar.com/gettingStarted.html'
+  url: 'http://simplecircuits.bingenortuzar.com/gettingStarted'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget2:
