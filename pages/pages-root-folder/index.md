@@ -11,17 +11,17 @@ widget1:
   title: "Getting Started"
   url: 'http://simplecircuits.bingenortuzar.com/pages/gettingStarted'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'Your first visit? Please take the guided tour :)'
 widget2:
   title: "The theory behind"
   url: 'http://simplecircuits.bingenortuzar.com/pages/theoryHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously'
 widget3:
   title: "beyond the paper"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'http://simplecircuits.bingenortuzar.com/pages/beyondHome'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'experiments that did't fit here '
 #
 # Use the call for action to show a button on the frontpage
 #
