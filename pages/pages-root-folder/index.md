@@ -9,18 +9,18 @@ header:
   image_fullwidth: header.jpg
 widget1:
   title: "Getting Started"
-  url: 'http://simplecircuits.bingenortuzar.com/pages/gettingStarted'
+  url: '/gettingStarted'
   image: 'http://simplecircuits.bingenortuzar.com/assets/img/getstartph.png'
   text: 'Your first visit? Please take the guided tour :)'
 widget2:
   title: "The theory behind"
-  url: 'http://simplecircuits.bingenortuzar.com/pages/theoryHome'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  url: '/theory'
+  image: 'http://simplecircuits.bingenortuzar.com/assets/img/theoryph.png'
   text: "Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously"
 widget3:
   title: "Beyond the paper"
-  url: 'http://simplecircuits.bingenortuzar.com/pages/beyondHome'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  url: '/beyond'
+  image: 'http://simplecircuits.bingenortuzar.com/assets/img/beyondph.png'
   text: "experiments that did't fit here"
 #
 # Use the call for action to show a button on the frontpage
