@@ -1,27 +1,27 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "Sections"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+  - title: "Getting Started"
+    url: "/gettingStarted"
+  - title: "The theory behind"
+    url: "/theory"
+  - title: "Beyond the paper"
+    url: "/beyond"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
@@ -34,6 +34,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right

@@ -3,6 +3,7 @@ layout: page
 title:  "Pencil drawn Circuit"
 date:   2016-11-20 12:16:29 +0100
 categories: intro 
+tags: intro
 ---
 This circuit is very easy, but not so efficient, I like it because children (and adults) loves it, but the materials used, being easy and cheap, are not efficient, so we are not going to use them in many experiments.
 

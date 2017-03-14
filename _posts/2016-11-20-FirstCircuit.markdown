@@ -3,6 +3,7 @@ layout: page
 title:  "First Circuit"
 date:   2016-11-20 11:16:29 +0100
 categories: intro 
+tags: intro
 ---
 This circuit is the easiest one, so easy perhaps, but don't understimate it. Children love to touch, and for them this is like magic. 
 

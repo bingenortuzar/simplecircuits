@@ -3,6 +3,7 @@ layout: page
 title:  "Base Circuit"
 date:   2016-11-20 17:16:29 +0100
 categories: intro 
+tags: intro
 ---
 This is the base circuit we are going to use in other experiments.
 
