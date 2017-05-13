@@ -13,3 +13,17 @@ in the meantime, you can take a look to [make] [1] or [hackster.io][2]
 
  [1]: http://makezine.com/category/technology/arduino/
  [2]: https://www.hackster.io/wearables
+
+
+ 
+{% assign items = site.posts | sort: 'date' %}
+<ul>
+{% for post in items  %}
+  {% if post.tags contains 'beyond' %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>

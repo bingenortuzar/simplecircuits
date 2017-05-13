@@ -11,13 +11,10 @@ permalink: /gettingStarted/
 
 
 
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-{% assign items = posts | sort: 'date' %}
+{% assign items = site.posts | sort: 'date' %}
 <ul>
 {% for post in items  %}
-  {% if post.tags contains t %}
+  {% if post.categories contains 'intro' %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
@@ -25,4 +22,3 @@ permalink: /gettingStarted/
   {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}

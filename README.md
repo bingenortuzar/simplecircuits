@@ -1,5 +1,4 @@
 # simplecircuits
-### WARNING: THIS IS LESS THAN AN ALFA VERSION.  
 
 This is the content for [simplecircuits.bingenortuzar.com](http://simplecircuits.bingenortuzar.com)
 

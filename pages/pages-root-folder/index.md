@@ -21,7 +21,7 @@ widget3:
   title: "Beyond the paper"
   url: '/beyond'
   image: 'http://simplecircuits.bingenortuzar.com/assets/img/beyondph.png'
-  text: "experiments that did't fit here"
+  text: "experiments that didn't fit here"
 #
 # Use the call for action to show a button on the frontpage
 #
