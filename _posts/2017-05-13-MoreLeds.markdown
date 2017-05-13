@@ -1,0 +1,25 @@
+---
+layout: page
+title:  "More Leds!"
+date:   2017-05-13 16:16:29 +0100
+categories: intro 
+tags: intro
+---
+You already made a simple circuit, and start thinking in adding more leds. Ok, no problem, let's see:
+
+### What we need:
+      
+        - 1 or 2 CR2032 coin batteries (or any other 3v coin battery)
+        - at least 2 led
+        - copper tape 
+
+![SimplestCircuit]({{ site.url }}/images/MoreLeds500.jpg)
+
+### The circuit schema
+
+
+
+![SimplestCircuit]({{ site.url }}/images/MoreLeds500Final.jpg)
+
+### About this experiment
+

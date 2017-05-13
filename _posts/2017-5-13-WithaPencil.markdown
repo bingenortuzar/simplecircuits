@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "With a pencil"
+title:  "With a pencil?"
 date:   2017-05-13 09:16:29 +0100
 categories: theory
 tags: theory

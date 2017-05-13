@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Info"
-subheadline: "About Simple Cicuits"
+subheadline: "About Simple Circuits"
 teaser: ""
 permalink: /info/
 ---

@@ -5,7 +5,7 @@ date:   2016-11-20 11:16:29 +0100
 categories: intro 
 tags: intro
 ---
-This circuit is the easiest one, so easy perhaps, but don't understimate it. Children love to touch, and for them this is like magic. 
+This circuit is the easiest one, so easy perhaps, but don't underestimate it. Children love to touch, and for them this is like magic. 
 
 ### What we need:
       
@@ -16,7 +16,7 @@ This circuit is the easiest one, so easy perhaps, but don't understimate it. Chi
 
 ### The circuit schema
 
-Look at the battery, usually there's a + sign on one of the sides. Take a led and look at his thin legs. Usually one leg is longer, that one has to be atached to the + side of the battery and the other to the - side.
+Look at the battery, usually there's a + sign on one of the sides. Take a led and look at his thin legs. Usually one leg is longer, that one has to be attached to the + side of the battery and the other to the - side.
 that's all. easy no?
 
 ![SimplestCircuit]({{ site.url }}/images/SimplestCircuit500Final.jpg)
@@ -24,7 +24,7 @@ that's all. easy no?
 ### About this experiment
 
 If nothing happens, or if your battery has nothing written on it, don't worry, simply try changing the led position. with this batteries this is not dangerous at all.
-You can also let the childrens discover the correct posittion, just give them a led and a battery,and wait.
+You can also let the children discover the correct position, just give them a led and a battery,and wait.
 We have to talk about polarity (the meaning of the + and the - signs), but not now. Whe are here to play, and educative games are too boring :P 
 
 fix it with tape and you got a *Glowie*. you can search for it if you need Ideas.
