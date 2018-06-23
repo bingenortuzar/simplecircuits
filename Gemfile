@@ -10,7 +10,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem 'addressable','2.4.0'
-gem "jekyll", "3.3.0"
+gem "jekyll", "3.7.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -27,4 +27,4 @@ end
 # require 'json'
 # require 'open-uri' 
 # versions = JSON.parse(open('https://pages.github.com/versions.json').read)
- gem 'github-pages','104', group: :jekyll_plugins 
+ gem 'github-pages','>104', group: :jekyll_plugins 
