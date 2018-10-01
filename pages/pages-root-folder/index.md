@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Getting Started"
   url: '/gettingStarted'
-  image: 'http://simplecircuits.bingenortuzar.com/assets/img/getstartph.png'
+  image: 'https://simplecircuits.bingenortuzar.com/assets/img/getstartph.png'
   text: 'Your first visit? Please take the guided tour :)'
 widget2:
   title: "The theory behind"
   url: '/theory'
-  image: 'http://simplecircuits.bingenortuzar.com/assets/img/theoryph.png'
+  image: 'https://simplecircuits.bingenortuzar.com/assets/img/theoryph.png'
   text: "Trying to know why some things works and others not? I'll try to explain, but don't take me too seriously"
 widget3:
   title: "Beyond the paper"
   url: '/beyond'
-  image: 'http://simplecircuits.bingenortuzar.com/assets/img/beyondph.png'
+  image: 'https://simplecircuits.bingenortuzar.com/assets/img/beyondph.png'
   text: "experiments that didn't fit here"
 #
 # Use the call for action to show a button on the frontpage
