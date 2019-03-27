@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/bingenortuzar
+  url: https://github.com/bingenortuzar
   class: icon-github
   title: "BingenOrtuzar"
 
@@ -9,7 +9,7 @@
 #  title: ""
 
 - name: Twitter
-  url: http://twitter.com/bingen
+  url: https://twitter.com/bingen
   class: icon-twitter
   title: "@bingen"
 

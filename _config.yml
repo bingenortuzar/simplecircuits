@@ -24,7 +24,7 @@ author: Bingen
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://simplecircuits.bingenortuzar.com'
+url: 'https://simplecircuits.bingen.dev'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://simplecircuits.bingenortuzar.com/images/'
+urlimg: 'https://simplecircuits.bingen.dev/images/'
 
 
 # Logo size is 600x80 pixels

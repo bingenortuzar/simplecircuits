@@ -1,6 +1,6 @@
 # simplecircuits
 
-This is the content for [simplecircuits.bingenortuzar.com](http://simplecircuits.bingenortuzar.com)
+This is the content for [simplecircuits.bingen.dev](http://simplecircuits.bingen.dev)
 
 The idea is making small projects to learn and have fun with my children. Premises are simple:
      
